@@ -180,6 +180,9 @@ body {
 .project-image-1 {
     zoom: 0.35;
 }
+.project-image-2 {
+    zoom: 0.25;
+}
 .project-time, .project-cost, .project-feedback {
     display: flex;
     align-items: flex-start;
