@@ -318,7 +318,7 @@ body {
 /* responive */
 @media (max-width: 1100px) {
     .hero-avatar {
-        background-position: center top -120px;
+        background-position: center top 10px;
         width: 300px;
         height: 300px;
         border-width: 10px;
@@ -330,7 +330,6 @@ body {
         flex-direction: column;
     }
     .hero-avatar {
-        background-position: center top -120px;
         order: 0;
         width: 300px;
         height: 300px;
