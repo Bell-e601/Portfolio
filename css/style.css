@@ -87,12 +87,12 @@ body {
 .hero-avatar {
     width: 389px;
     height: 389px;
-    background-color: #000000;;
+    background-color: #000000;
     border-radius: 50%;
-    background-image: url('../img/logo without background ver 2.0.svg');
-    background-size: 89% ;
+    background-image: url('../img/logo\ without\ background\ ver\ 2.0.svg');
+    background-size: 60%;
     background-repeat: no-repeat;
-    background-position: center top 15px;
+    background-position: center top 26px;
     border: 13px solid #AF2F2F;
 }
 .hero-avatar:hover {
@@ -100,10 +100,10 @@ body {
     height: 389px;
     background-color: #000000;;
     border-radius: 50%;
-    background-image: url('../img/logo.svg');
-    background-size: 89% ;
+    background-image: url('../img/logo-active\ without\ background\ ver\ 2.0.svg');
+    background-size: 60%;
     background-repeat: no-repeat;
-    background-position: center top 15px;
+    background-position: center top 26px;
     border: 13px solid #9B0000;
 }
 /* features */
@@ -371,14 +371,14 @@ body {
         margin-bottom: 4px;
     }
     .hero-avatar {
-    background-position: center top -120px;
-    order: 0;
-    width: 113px;
-    height: 113px;
-    border-width: 4px;
-    margin-bottom: 17px;
-    background-size: 100%;
-    background-position-y: center;
+        background-position: center top -120px;
+        order: 0;
+        width: 340px;
+        height: 340px;
+        border-width: 4px;
+        margin-bottom: 17px;
+        background-size: 59%;
+        background-position-y: center;
     }
     .hero-header {
         margin-bottom: 38px;
